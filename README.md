@@ -239,4 +239,4 @@ This repository serves as the official landing page for Panda Internet Security.
 **Get the most recent version of Panda Internet Security today!**
 
 ---
-**Last updated:** 2026-09-09 13:13:41 UTC
+**Last updated:** 2026-09-09 17:23:49 UTC
